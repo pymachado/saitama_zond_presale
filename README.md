@@ -23,7 +23,7 @@ The Saitama Quantum-Resistant Decentralized Pre-sale Protocol aims to provide a 
   - Establish a sustainable, transparent, and permissionless presale model resistant to quantum attacks.
 
 - **Scope:**
-  - Development of a smart contract-based presale platform utilizing the Zond Virtual Machine (ZVM).
+  - Development of a smart contract-based presale platform running on the Zond Virtual Machine (ZVM).
   - Integration of [zond-web3-wallet](https://github.com/theQRL/zond-web3-wallet) for execute the Presale features. 
   - Integration with QRL’s quantum-resistant blockchain to ensure the security of raised funds and investor contributions.
   - Creation of a user-friendly interface for seamless participation in presales.
