@@ -87,11 +87,11 @@ When the presale is in progress and a tier is about to be raised, contributors c
 ## Tier Raised
 
 Once the **currentAllocation** reaches the **allocationPerTier**, the current tier is considered raised. At this point:
-- The contract transfers the collected funds to the **vestingAddress**, which is managed by the presale team.
+- The contract transfers the collected funds to the **escrowAddress**, which is managed by the team creators.
 - The contract then resets the **currentAllocation**, increments the **tierNumber**, and updates the **tokensPerBit**.
 
 **Process:**
-1. **Vesting update:** Contributions are safely transferred to a **vestingAddress** managed by the presale team.
+1. **Escrow update:** Contributions are safely transferred to a **escrowAddress** managed by the team creators.
 2. **Tier transition:** The smart contract prepares for the next tier by adjusting its internal variables:
    - Reset **currentAllocation** to 0.
    - Increase **tierNumber** by 1.
