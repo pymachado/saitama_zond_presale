@@ -140,7 +140,10 @@ When the presale reaches its final tier (e.g., tier 60), no more contributions a
 ---
 
 ## Fee Mechanism
+
 The protocol uses a fee mechanism to self-maintain its operations. All transactions on the protocol have a cost associated of 2%.
+
+50% of the total fees collected will be allocated to the staking mechanism of the Saitama protocol. This will help remove a portion of the QRL tokens from circulation, contributing to the scarcity of the token and empowering its use within the ecosystem.
 
 ---
 
