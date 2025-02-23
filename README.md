@@ -113,7 +113,7 @@ To calculate the new **tokensPerBit**, the formula is as follows:
 tokensPerBitScaled = tokensPerBit * SCALE
 ```
 
-Where the scaling factor **SCALE** is determined by the increasing factor, typically defined as:
+Where the scaling factor **SCALE** is a constant typically defined as 10**6:
 
 ```math
 tokensPerBit = \frac{tokensPerBitScaled}{increasingFactor}
