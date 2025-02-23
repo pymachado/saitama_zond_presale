@@ -24,9 +24,9 @@ The Quantum-Resistant Decentralized Pre-sale Protocol aims to provide a secure a
 
 - **Scope:**
   - Development of a smart contract-based presale platform utilizing the Zond Virtual Machine (ZVM).
+  - Integration of [zond-web3-wallet](https://github.com/theQRL/zond-web3-wallet) for execute the Presale features. 
   - Integration with QRL’s quantum-resistant blockchain to ensure the security of raised funds and investor contributions.
   - Creation of a user-friendly interface for seamless participation in presales.
-  - Implementation of governance mechanisms to allow community-driven improvements and security enhancements.
 
 - **Expected Outcomes:**
   - A fully functional quantum-resistant presale protocol ready for deployment upon Zond Mainnet launch.
@@ -62,7 +62,7 @@ The presale operates on a tier-based structure:
 - The allocation and pricing mechanism ensures fair and consistent token distribution across all tiers, adapting to market interest and demand.
 
 ### Roles
-- **Contributor:** A user who reserves an amount of the base token through the QRL (Qualified Reserve List).
+- **Contributor:** A user who reserves an amount of the base token through the $QRL.
 - **Admin:** A user who manages the protocol features, including defining the presale parameters (e.g., number of tiers, allocation per tier, rate of increase).
 
 ### Advantages
@@ -136,10 +136,6 @@ When the presale reaches its final tier (e.g., tier 60), no more contributions a
 1. **No further contributions:** After reaching the last tier, the contract disables the ability to accept new contributions or emergency withdrawals.
 2. **Token claim:** Contributors can still interact with the contract to claim their purchased tokens using the **claimTokens** function.
 3. **Vesting status:** All funds from contributions have been transferred to the **vestingAddress**, and the presale state is complete.
-
----
-
-In summary, the **TierPresale.sol** contract is designed to provide flexibility in how the presale progresses, with dynamic pricing and tier management, while maintaining fairness and transparency for contributors. The contributions are securely managed and vested, and the QRL (Quantum Resistant Ledger) is used as the native coin for participation.
 
 ---
 
