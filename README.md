@@ -132,6 +132,14 @@ The presale progresses through each tier until it reaches the maximum number of 
 ## Presale Raised
 When the presale reaches its final tier (e.g., tier 60), no more contributions are allowed, and the presale is considered "raised."
 
+### Total QRL Collected
+
+The total amount of QRL collected by selling the base token during each presale is calculated by multiplying the last tier raised by the contribution per tier:
+
+```math
+Total\ QRL\ Collected = Tier\ Raised \times Contribution\ per\ Tier
+```
+
 **Process:**
 1. **No further contributions:** After reaching the last tier, the contract disables the ability to accept new contributions or emergency withdrawals.
 2. **Token claim:** Contributors can still interact with the contract to claim their purchased tokens using the **claimTokens** function.
