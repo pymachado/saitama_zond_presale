@@ -53,6 +53,7 @@ The Saitama Quantum-Resistant Decentralized Pre-sale Protocol aims to provide a 
 - **Factory.sol**
 - **TierPresale.sol**
 - **Vesting.sol**
+- **Escrow.sol**
 
 ### Mechanism Explanation
 The presale operates on a tier-based structure:
