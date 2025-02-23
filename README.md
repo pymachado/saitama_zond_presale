@@ -1,4 +1,4 @@
-# saitama_rqc_presale
+# SAITAMA QUANTUM RESISTANT PRE-SALE PROTOCOL
 The first Resistant Quantum Computer decentralized Pre-sale decentralized protocol power all the liquidity around the QRL ecosystem
 
 **Simple Summary**
