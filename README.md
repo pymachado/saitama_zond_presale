@@ -1,4 +1,4 @@
-# SAITAMA QUANTUM RESISTANT PRE-SALE PROTOCOL
+# SAITAMA POST QUANTUM RESISTANT PRE-SALE PROTOCOL
 The first Quantum-Resistant Decentralized Pre-sale Protocol, empowering liquidity within the QRL ecosystem.
 
 ## Simple Summary
