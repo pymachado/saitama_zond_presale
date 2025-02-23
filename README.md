@@ -46,7 +46,16 @@ The Quantum-Resistant Decentralized Pre-sale Protocol aims to provide a secure a
     - Number of Tiers: Defined by the user
     - Allocation per Tier: Defined by the user
     - Rate per Sale Increase: Defined by the user
-
+   
+  - **Smart Contract Core**
+  
+    - Factory.sol
+  
+    - TierPresale.sol
+  
+    - Vesting.sol
+  
+  
   - **Mechanism Explanation**
     The presale operates on a tier-based structure:
     - Each tier concludes when all tokens allocated to that tier are sold.
