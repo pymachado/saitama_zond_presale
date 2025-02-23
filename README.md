@@ -15,7 +15,7 @@ As quantum computers advance, the security of traditional ECDSA-based wallets be
 The necessity of a quantum-resistant decentralized presale protocol is paramount in ensuring secure and sustainable fundraising mechanisms. By leveraging the QRL ecosystem and its forthcoming Zond upgrade, this protocol enhances decentralization and provides a trustless funding avenue for innovators.
 
 ## Project Outline
-The Saitama Quantum-Resistant Decentralized Pre-sale Protocol aims to provide a secure and decentralized platform for fundraising within the QRL ecosystem. The project is designed to facilitate the sale of ZRC-20 tokens in a quantum-resistant environment, ensuring that investors and project creators can participate without the risk posed by evolving quantum computing threats.
+The Saitama Post Quantum-Resistant Decentralized Pre-sale Protocol aims to provide a secure and decentralized platform for fundraising within the QRL ecosystem. The project is designed to facilitate the sale of ZRC-20 tokens in a quantum-resistant environment, ensuring that investors and project creators can participate without the risk posed by evolving quantum computing threats.
 
 - **Purpose:**
   - Enable developers, creators, and artists to raise funds by selling their ZRC20 assets in a quantum-secure ecosystem.
