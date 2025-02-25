@@ -75,6 +75,9 @@ The presale operates on a tier-based structure:
 
 ---
 
+## **Initialize Pre-sale**  
+In this phase, the admin must deploy and set up a new **TierPresale** contract through the **Factory** contract. Additionally, the admin needs to fund the **TierPresale** contract with the total amount of base tokens allocated for sale. This ensures that once the presale starts, the contract can distribute tokens accordingly as contributors participate.  
+
 ## Raising a Tier
 When the presale is in progress and a tier is about to be raised, contributors can participate by making contributions within the allowed minimum and maximum limits. The presale smart contract enforces these limits and ensures the contribution does not exceed the remaining allocation for the current tier.
 
