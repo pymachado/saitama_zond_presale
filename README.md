@@ -182,6 +182,8 @@ Here's the updated **Milestone 1** with your requested change:
 | **5. Vesting.sol Development** | - Develop **Vesting.sol**  <br> - Implement vesting logic  <br> - Test with TDD | **Week 6 & 7** | **80 hours** | **$1,700** |
 | **6. Escrow.sol Development** | - Develop **Escrow.sol**  <br> - Implement escrow management logic  <br> - Test with TDD | **Week 8** | **40 hours** | **$850** 
 | **7. Web3 API Connectivity** | - Develop Web3 API library to integrate front-end with smart contracts <br> - Set up connection for contract interactions (contribution, claims, etc.)  <br> - Ensure smooth communication between UI and blockchain | **Week 9, 10 & 11** | **120 hours** | **$2,550** |
+| **8. Documentation Refinement & Web3 API Doc** | - Refactor and update existing technical documentation  <br> - Create **Web3 API Connectivity** documentation for the front-end integration | **Week 12** | **40 hours** | **$850** |
+
 | **4. Smart Contract Testing & Security Review** | - Perform unit and integration testing  <br> - Optimize contracts for gas efficiency  <br> - Conduct security audits & fixes | **Month 3** | **80 hours** | **$1,700** |
 | **5. User Interface Development** | - Build front-end (if outsourced, allocate funds)  <br> - Connect UI to smart contracts  <br> - Conduct usability testing | **Month 4** | **80 hours** | **$1,700** |
 | **6. Deployment & Beta Testing** | - Deploy contracts on Beta-Testnet  <br> - Simulate transactions & gather feedback  <br> - Identify improvements before mainnet launch | **Month 5** | **80 hours** | **$1,700** |
