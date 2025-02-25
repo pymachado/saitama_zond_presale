@@ -167,8 +167,21 @@ The protocol uses a fee mechanism to self-maintain its operations. All transacti
 
 ---
 
-## Roadmap, Timeline, and Budget
-A structured plan outlining the project's milestones, estimated completion dates, and associated budget requirements.
+Here's the updated **Milestone 1** with your requested change:  
+
+---
+
+### **Updated Budget Allocation**  
+
+| **Milestone**                         | **Tasks** | **Timeline** | **Estimated Hours** | **Budget Allocation (USD)** |
+|--------------------------------------|----------|------------|-----------------|---------------------|
+| **1. Research & Documentation** | - Training on QRL and Zond #Buidl ecosystem & performance   <br> - Define architecture & scope <br> - Create technical documentation | **Week 1** | **40 hours** | **$850** |
+| **2. Node & Wallet Setup** | - Deploy a node using Zond Beta-Testnet  <br> - Set up wallet for development & testing with **zond-web3**  <br> - Ensure network connectivity & basic interactions | **Week 2** | **40 hours** | **$850** |
+| **3. Smart Contract Development** | - Develop core smart contracts  <br> - Implement key functionalities & logic  <br> - Ensure compatibility with Zond Beta-Testnet | **Month 2** | **80 hours** | **$1,700** |
+| **4. Smart Contract Testing & Security Review** | - Perform unit and integration testing  <br> - Optimize contracts for gas efficiency  <br> - Conduct security audits & fixes | **Month 3** | **80 hours** | **$1,700** |
+| **5. User Interface Development** | - Build front-end (if outsourced, allocate funds)  <br> - Connect UI to smart contracts  <br> - Conduct usability testing | **Month 4** | **80 hours** | **$1,700** |
+| **6. Deployment & Beta Testing** | - Deploy contracts on Beta-Testnet  <br> - Simulate transactions & gather feedback  <br> - Identify improvements before mainnet launch | **Month 5** | **80 hours** | **$1,700** |
+| **7. Community Building & Mainnet Preparation** | - Create documentation & user guides  <br> - Launch community engagement & feedback sessions  <br> - Finalize preparations for mainnet launch | **Month 6** | **80 hours** | **$1,700** |
 
 ---
 
