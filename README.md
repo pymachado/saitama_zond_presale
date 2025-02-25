@@ -153,8 +153,8 @@ Total\ QRL\ Collected = Tier\ Raised \times Contribution\ per\ Tier
 **Process:**
 1. **No further contributions:** After reaching the last tier, the contract disables the ability to accept new contributions or emergency withdrawals.
 2. **Token claim:** Contributors can still interact with the contract to claim their purchased tokens using the **claimTokens** function.
-3. **Tokens claimed from contributors will be deposited in the Vesting Contract and  released as the time pass according to the iniitial.settings. This avoid that
-3. **Escrow status:** All funds from contributions have been transferred to the **escrowAddress**, and the presale state is complete.
+3. **Vesting contract deposit:** Claimed tokens will be deposited into the Vesting Contract and released over time according to the initial settings. This ensures a structured distribution and prevents immediate large withdrawals.
+4. **Escrow status:** All funds from contributions have been transferred to the **escrowAddress**, and the presale state is complete.
 
 
 ---
