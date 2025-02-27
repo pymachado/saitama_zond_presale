@@ -4,6 +4,16 @@ The first Quantum-Resistant Decentralized Pre-sale Protocol, empowering liquidit
 ## Simple Summary
 The first Quantum-Resistant Decentralized Pre-sale Protocol, powering all liquidity around the QRL ecosystem.
 
+## Author
+
+Pedro Machado
+
+**[Github](https://github.com/pymachado)**
+
+**[Linkedln](https://www.linkedin.com/in/petermacblockchain/?locale=en_US)**
+
+**[x](https://x.com/machado_leiva)**
+
 ## Abstract
 This protocol serves as the first quantum-resistant decentralized presale platform within the QRL ecosystem. It facilitates liquidity addition in the form of QRL tokens while enabling developers, creators, and artists to fund their projects by selling their assets on the only quantum-resistant layer in the market.
 
