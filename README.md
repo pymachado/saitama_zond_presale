@@ -173,23 +173,32 @@ Here's the updated **Milestone 1** with your requested change:
 
 ### **Updated Budget Allocation**  
 
-| **Milestone**                         | **Tasks** | **Timeline** | **Estimated Hours** | **Budget Allocation (USD)** |
-|--------------------------------------|----------|------------|-----------------|---------------------|
-| **1. Research & Documentation** | - Training on QRL and Zond #Buidl ecosystem & performance   <br> - Define architecture & scope <br> - Create technical documentation | **Week 1** | **40 hours** | **$850** |
-| **2. Node & Wallet Setup** | - Deploy a node of Zond #Buidl Testnet  <br> - Set up wallet for development & testing with **zond-web3-wallet**  <br> - Ensure network connectivity & basic interactions | **Week 2** | **40 hours** | **$850** |
-| **3. Factory.sol Development** | - Develop **Factory.sol**  <br> - Implement core logic  <br> - Test with Test-Driven Development (TDD) | **Week 3** | **40 hours** | **$850** |
-| **4. TierPresale.sol Development** | - Develop **TierPresale.sol**  <br> - Implement contribution and tier logic  <br> - Test with TDD | **Week 4 & 5** | **80 hours** | **$1,700** |
-| **5. Vesting.sol Development** | - Develop **Vesting.sol**  <br> - Implement vesting logic  <br> - Test with TDD | **Week 6 & 7** | **80 hours** | **$1,700** |
-| **6. Escrow.sol Development** | - Develop **Escrow.sol**  <br> - Implement escrow management logic  <br> - Test with TDD | **Week 8** | **40 hours** | **$850** 
-| **7. Web3 API Connectivity** | - Develop Web3 API library to integrate front-end with smart contracts <br> - Set up connection for contract interactions (contribution, claims, etc.)  <br> - Ensure smooth communication between UI and blockchain | **Week 9, 10 & 11** | **120 hours** | **$2,550** |
-| **8. Documentation Refinement & Web3 API Doc** | - Refactor and update existing technical documentation  <br> - Create **Web3 API Connectivity** documentation for the front-end integration | **Week 12** | **40 hours** | **$850** |
-
-| **4. Smart Contract Testing & Security Review** | - Perform unit and integration testing  <br> - Optimize contracts for gas efficiency  <br> - Conduct security audits & fixes | **Month 3** | **80 hours** | **$1,700** |
-| **5. User Interface Development** | - Build front-end (if outsourced, allocate funds)  <br> - Connect UI to smart contracts  <br> - Conduct usability testing | **Month 4** | **80 hours** | **$1,700** |
-| **6. Deployment & Beta Testing** | - Deploy contracts on Beta-Testnet  <br> - Simulate transactions & gather feedback  <br> - Identify improvements before mainnet launch | **Month 5** | **80 hours** | **$1,700** |
-| **7. Community Building & Mainnet Preparation** | - Create documentation & user guides  <br> - Launch community engagement & feedback sessions  <br> - Finalize preparations for mainnet launch | **Month 6** | **80 hours** | **$1,700** |
+Here’s the **updated general milestone table**, incorporating the **Web3 API Connectivity** milestone with a structured breakdown of tasks, timeline, hours, and budget.  
 
 ---
+
+## **Project Roadmap, Timeline & Budget**  
+
+Here’s the **updated roadmap** with the correct timeline adjustments for Milestones **7 and 8**, ensuring alignment with the overall workflow:  
+
+---
+
+| **#** | **Milestone** | **Tasks** | **Timeline** | **Estimated Hours** | **Budget Allocation (USD)** |
+|------|-------------|--------|------------|-----------------|---------------------|
+| **1** | **Research & Documentation** | - Define architecture & scope  <br> - **Training on QRL and ZondVM ecosystem & performance**  <br> - Create technical documentation | **Week 1** | **40 hours** | **$1,200** |
+| **2** | **Node & Wallet Setup** | - Deploy a node using Zond Beta-Testnet  <br> - Set up wallet for development & testing with **zond-web3**  <br> - Ensure network connectivity & basic interactions | **Week 2** | **40 hours** | **$1,200** |
+| **3** | **TierPresale.sol Development** | - Develop **TierPresale.sol**  <br> - Implement contribution and tier logic  <br> - Test with TDD | **Week 3 & 4** | **80 hours** | **$2,400** |
+| **4** | **Vesting.sol Development** | - Develop **Vesting.sol**  <br> - Implement vesting logic  <br> - Test with TDD | **Week 5 & 6** | **80 hours** | **$2,400** |
+| **5** | **Escrow.sol Development** | - Develop **Escrow.sol**  <br> - Implement escrow management logic  <br> - Test with TDD | **Week 7** | **40 hours** | **$1,200** |
+| **6** | **Factory.sol Development** | - Develop **Factory.sol**  <br> - Implement core logic  <br> - Test with TDD | **Week 8** | **40 hours** | **$1,200** |
+| **7** | **Zond-Web3-Wallet Integration** | - Implement **wallet connection** using Zond-Web3-Wallet <br> - Enable **transaction signing** and authentication <br> - Display **events & errors** triggered by smart contracts | **Week 9** | **40 hours** | **$1,200** |
+| **8** | **Web3 API Library Development** | - Develop a **custom Web3 API** to connect the UI with smart contracts <br> - Implement **contract interaction functions** (read/write ops) <br> - Optimize **data fetching & event handling** | **Week 10 & 11** | **80 hours** | **$2,400** |
+| **9** | **User Interface Development** | - **Training on front-end** (40h) <br> - Design UI/UX (40h) <br> - Develop front-end (80h) <br> - Test & refine (40h) | **Week 12-17** (if self-developed) <br> **OR** Week 12-14 (if hiring a dev, with $3,500 budget) | **160 hours** | **$4,800** (self) OR **$3,500** (hired) |
+| **10** | **Documentation Refinement & Web3 API Doc** | - Refactor and update existing technical documentation  <br> - Create **Web3 API Connectivity** documentation for the front-end integration | **Week 18** | **40 hours** | **$1,200** |
+| **11** | **Deployment & Beta Testing** | - Deploy contracts on **Zond Testnet BUIDL** (locally and sync with network nodes) <br> - Simulate **transactions & interactions** in the test environment <br> - Gather **feedback & identify improvements** before mainnet launch | **Week 14-15** | **40 hours** | **$1,200** |
+| **12** | **Community Building, Education & Mainnet Preparation** | - **Hire a Web3 Community Manager** to manage social media (Discord, X, Telegram, IG, LinkedIn) <br> - Launch **community engagement & feedback sessions** <br> - Establish an **official YouTube channel** for education & awareness <br> - Create a **structured video course on Saitama Protocol & QRL-ZOND Blockchain** <br> - Course will cover: **Smart Contract Development, Web3 API, and Zond Ecosystem** <br> - Content will include **tutorials, live Q&A, and interactive learning** <br> - Promote through **social media campaigns, dev hackathons, and AMA sessions** <br> - Prepare **user guides & onboarding materials** for mainnet launch | **Week 16-24 (2 Months)** | **160 hours (Community Manager) + 80 hours (Content Creation) = 240 hours** | **$8,000** (Includes $6,000 for Community Manager + $2,000 for Video Production & Content Creation) |
+---
+
 
 ## Ecosystem Benefits
 This protocol aligns with the Foundation's aims by reinforcing the QRL ecosystem, promoting decentralization, and serving the public good. It fosters innovation by offering a secure and quantum-resistant fundraising platform for various stakeholders.
