@@ -167,21 +167,8 @@ The protocol uses a fee mechanism to self-maintain its operations. All transacti
 
 ---
 
-Here's the updated **Milestone 1** with your requested change:  
-
----
-
-### **Updated Budget Allocation**  
-
-Here’s the **updated general milestone table**, incorporating the **Web3 API Connectivity** milestone with a structured breakdown of tasks, timeline, hours, and budget.  
-
----
-
 ## **Project Roadmap, Timeline & Budget**  
 
-Here’s the **updated roadmap** with the correct timeline adjustments for Milestones **7 and 8**, ensuring alignment with the overall workflow:  
-
----
 
 | **#** | **Milestone** | **Tasks** | **Timeline** | **Estimated Hours** | **Budget Allocation (USD)** |
 |------|-------------|--------|------------|-----------------|---------------------|
@@ -197,7 +184,18 @@ Here’s the **updated roadmap** with the correct timeline adjustments for Miles
 | **10** | **Documentation Refinement & Web3 API Doc** | - Refactor and update existing technical documentation  <br> - Create **Web3 API Connectivity** documentation for the front-end integration | **Week 18** | **40 hours** | **$1,200** |
 | **11** | **Deployment & Beta Testing** | - Deploy contracts on **Zond Testnet BUIDL** (locally and sync with network nodes) <br> - Simulate **transactions & interactions** in the test environment <br> - Gather **feedback & identify improvements** before mainnet launch | **Week 14-15** | **40 hours** | **$1,200** |
 | **12** | **Community Building, Education & Mainnet Preparation** | - **Hire a Web3 Community Manager** to manage social media (Discord, X, Telegram, IG, LinkedIn) <br> - Launch **community engagement & feedback sessions** <br> - Establish an **official YouTube channel** for education & awareness <br> - Create a **structured video course on Saitama Protocol & QRL-ZOND Blockchain** <br> - Course will cover: **Smart Contract Development, Web3 API, and Zond Ecosystem** <br> - Content will include **tutorials, live Q&A, and interactive learning** <br> - Promote through **social media campaigns, dev hackathons, and AMA sessions** <br> - Prepare **user guides & onboarding materials** for mainnet launch | **Week 16-24 (2 Months)** | **160 hours (Community Manager) + 80 hours (Content Creation) = 240 hours** | **$8,000** (Includes $6,000 for Community Manager + $2,000 for Video Production & Content Creation) |
----
+
+
+### **Final Total Budget (Rounded Up)**  
+✅ **$33,000** (includes a 15% contingency buffer for unexpected costs)  
+
+This ensures flexibility for additional development, bug fixes, marketing, and unforeseen expenses. 🚀
+
+### **Future Recommendations**
+- **Saitama NFT Marketplace:** Expand ecosystem utility by integrating with Saitama’s NFT marketplace.
+- **Saitama Swap DEX:** Enable seamless token swaps and liquidity management via Saitama Swap DEX.
+- **CCIP Integration:** Implement Chainlink’s Cross-Chain Interoperability Protocol (CCIP) once QRL-ZOND is supported for enhanced security and functionality.
+
 
 
 ## Ecosystem Benefits
